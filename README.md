@@ -1,4 +1,1 @@
-🚀 Ready to create your very own "Ask Her Out" website? 
-Join me in this step-by-step HTML tutorial where we'll design and code a personalized site to help you pop the question! 
-From layout to interactive features, I've got you covered. 
-No coding experience required - let's make your proposal unforgettable! 💻💘 #WebDevelopment #HTMLTutorial #LoveInTheCode
+The Happy Birthday app is a simple web-based application designed to wish a user a Happy Birthday with an animated GIF and a customizable message. The app uses basic HTML for structure and CSS for styling and layout.
